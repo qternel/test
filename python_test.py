@@ -14,6 +14,4 @@ def test_sum_squares_tuple():
     assert sum_squares((1,1,1,1,-1,-1,-1,-1))==8
 
 теперь не работает:(
-   && 7&77 7 77wefwefwerf
-   fwefw
-   r111
+   && 7
