@@ -1,5 +1,4 @@
-from typing import Iterable
-def sum_squares(lst:Iterable[float|int])->float|int:
+def sum_squares(lst):
     sum = 0
     for x in lst:
         sum += x * x
