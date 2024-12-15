@@ -16,3 +16,4 @@ def test_sum_squares_tuple():
 теперь не работает:(
    && 7&77 7 77wefwefwerf
    fwefw
+   r111
