@@ -12,5 +12,3 @@ def test_sum_squares_set():
 
 def test_sum_squares_tuple():
     assert sum_squares((1,1,1,1,-1,-1,-1,-1))==8
-
-теперь билдит автоматически(((!!!!!&&&777788899999)))1111122222
